@@ -1,2 +1,2 @@
 # Nchu
-Just code
+hello everone!
